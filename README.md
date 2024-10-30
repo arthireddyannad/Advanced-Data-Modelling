@@ -1,0 +1,2 @@
+
+In my Global Super Store project, I started by creating an ER diagram and implemented it in MySQL using the Forward Engineer tool in Workbench. I built a dimensional data model tailored for performance, so analyzing the data would be efficient and meaningful. Then, I used Tableau to turn the data into visuals, designing an interactive dashboard that provides clear insights and supports smarter decision-making. This project gave me hands-on experience in linking data modeling, database implementation, and visualization into a cohesive analytics solution.
